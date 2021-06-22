@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BDDFramework.iml" filepath="$PROJECT_DIR$/.idea/BDDFramework.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/PythonRequestClassJan2020/PythonRequestProjectTanwir/.idea/PythonRequestProjectTanwir.iml" filepath="$USER_HOME$/Documents/PythonRequestClassJan2020/PythonRequestProjectTanwir/.idea/PythonRequestProjectTanwir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonSelenium7PmWkApr2021/.idea/pythonSelenium7PmWkApr2021.iml" filepath="$PROJECT_DIR$/../pythonSelenium7PmWkApr2021/.idea/pythonSelenium7PmWkApr2021.iml" />
+    </modules>
+  </component>
+</project>
